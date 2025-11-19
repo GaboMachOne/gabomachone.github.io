@@ -1,5 +1,5 @@
 # TITLE PROJECT HERE
-#### Link:  https://gabomachone.github.io/index.html
+#### Link:  https://gabomachone.github.io
 
 ## Description
 -- TBD
