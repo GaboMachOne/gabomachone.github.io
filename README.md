@@ -1,23 +1,13 @@
-# TITLE PROJECT HERE
-#### Link:  https://gabomachone.github.io
+# Ethical Use of AI
 
-## Description
+## Instructions
 -- TBD
 
-## Target Users
--- TBD
-
-## Features
--- TBD
-
-## Project Structure
--- TBD
-
-## Usage
--- TBD
-
-## Reference
+## Tools
 -- TBD
 
 ## Screenshots
-- TBD
+-- TBD
+
+## Deployment link
+--  https://gabomachone.github.io
